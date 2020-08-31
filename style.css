@@ -12,11 +12,14 @@
     .outerjumbo {
       color: rgb(86, 109, 60);
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      text-shadow:white 0.2em 0.2em 0.2em;
+      text-shadow:lightblue 0.2em 0.2em 0.2em;
       font-weight: bolder;
       background-color: purple;
       }
-     
+    
+    #script{
+      color: whitesmoke
+    }
     
    .card {
     text-align: center;
@@ -30,6 +33,7 @@
    }
     .container2 {
      width:35rem;
+     height:20rem;
      text-align: center;
      }
   
