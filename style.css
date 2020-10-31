@@ -44,10 +44,11 @@
     padding-top: 0.3rem;
   }
 
+
     
     #frame {
       display: flexbox;
-      margin-top: 2rem;
+      margin-top: 3rem;
       flex-wrap: wrap;
       text-align: center;   
       }
@@ -62,30 +63,15 @@
 
     #carouselphotos{
       height: 15rem;
-      width: 30rem;
-      
+      width: 30rem;      
     }
 
    
     #musicbox {
-     margin-top: 2rem;
-     width: 12rem;
-     margin-left:1rem;
-     margin-bottom:1rem;
+     margin-top: 4em;
+     margin-left: 0 auto;
+     margin-bottom:2em;
      border-radius: 50%;
-   }
+     }
 
-      
-    /* .map-container-5{
-      overflow:hidden;
-      padding-bottom:56.25%;
-      position:relative;
-      height:0;
-      }
-      .map-container-5 iframe{
-      left:0;
-      top:0;
-      height:100%;
-      width:100%;
-      position:absolute;
-      } */
+    
